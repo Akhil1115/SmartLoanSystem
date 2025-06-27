@@ -68,7 +68,7 @@ st.markdown(
 )
 
 # ===== App Title =====
-st.markdown('<h1 class="app-title">💰 Smart Loan Recovery Prediction 🏦</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="app-title">💰 Smart Loan Recovery Prediction </h1>', unsafe_allow_html=True)
 
 # ===== Input Fields =====
 st.markdown('<div class="section-title">Borrower Information:</div>', unsafe_allow_html=True)
